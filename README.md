@@ -33,9 +33,6 @@ Template-Three
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to fork this project and submit a pull request.
 
-## 📄 License
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it as per the license.
-
 ## 📝 Acknowledgments
 - This project was done under the supervision of Gharbiya Hack Club monitors.
 - Inspired by modern web design trends.
